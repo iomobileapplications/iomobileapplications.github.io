@@ -224,6 +224,13 @@ p > img {
   margin: 0 auto;
 }
 
+// Make images with link place on center
+a > img {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
