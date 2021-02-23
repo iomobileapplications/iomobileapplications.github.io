@@ -8,21 +8,12 @@ permalink: /flighty_birdie/
 
 ## Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+- Tape left & right to avoid obstacles
+- Pick up coins and bonuses to unlock more colorful birdies
+- Find out how high you can get
+- Collect a complete collection of birds
+- Extremely addictive gameplay 
+- One of the best time killer game
 
 ## Available on: 
 [![name](/images/google-play-badge.png)](https://www.google.com/)
