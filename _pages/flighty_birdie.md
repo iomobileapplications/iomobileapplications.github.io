@@ -16,7 +16,7 @@ permalink: /flighty_birdie/
 - One of the best time killer game
 
 ## Available on: 
-[![name](/images/google-play-badge.png)](https://www.google.com/)
+[![name](/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.IOMobileApplications.FlightyBirdie)
 
 ###### [Privacy Policy](/flighty_birdie_privacy_policy)  
 ###### [Terms & Conditions](/flighty_birdie_terms_and_conditions) 
